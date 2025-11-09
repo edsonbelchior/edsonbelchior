@@ -1,4 +1,4 @@
-## **Edson Belchior**
+## 🧑‍💻 **Edson Belchior**
 Sou Edson Belchior, 21 anos, potiguar. Graduado em Análise e Desenvolvimento de Sistemas pela UNINASSAU, vivo tecnologia no dia a dia e estou sempre elevando a barra. No momento, aprofundo meus estudos em Banco de Dados, Big Data, Business Intelligence (BI), Defesa Cibernética e Ciência da Computação. Curioso por natureza e focado em evoluir de forma consistente. 👨‍💻
 
 ## 🤖 **Linguagens e Tecnologias**
